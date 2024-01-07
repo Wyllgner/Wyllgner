@@ -6,7 +6,7 @@
 </p><br><br>
 
 ## 👨🏻‍💻 About Me
-- 💡 My name is **Wyllgner França** and I'm 19 years old
+- 💡 `My name is Wyllgner França and I'm 19 years old`
 - 🎓 **Computer Science Student** at the Federal University of Rondônia - Brazil.
 - 🔎 I'm part of a **Scientific Initiation** group responsible for several technological projects at the university.
 - ✍️ I'm dedicating myself to learning more about **Artificial Intelligence** and **Cybersecurity**.
@@ -19,9 +19,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
 <img src="https://img.shields.io/badge/Matlab-FF0000?style=for-the-badge&logo=matlab&logoColor=white" /> 
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyllgner\&layout=compact)
-
 
 ## 🤝🏻 Connect with Me
 <a href="mailto:wyllgner.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
