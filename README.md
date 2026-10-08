@@ -129,14 +129,6 @@ Researcher and developer in **Artificial Intelligence**, working with **Natural 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wyllgner&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wyllgner&theme=github-compact&hide_border=true&area=true" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wyllgner/Wyllgner/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wyllgner/Wyllgner/output/github-snake.svg" />
