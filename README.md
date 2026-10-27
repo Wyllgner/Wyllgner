@@ -23,8 +23,6 @@
 
 ## <img src="https://api.iconify.design/tabler/user.svg?color=%232F81F7" width="24" align="center"/> About
 
-<img align="right" src="https://avatars.githubusercontent.com/u/119019195?v=4" width="160"/>
-
 Researcher and developer in **Artificial Intelligence**, working with **Natural Language Processing**, **Computer Vision**, **Multi-Agent Systems** and **Multimodal Processing**.
 
 - **Data Scientist** at SETIC, Rondônia State Superintendency of Information Technology
